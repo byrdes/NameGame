@@ -1,2 +1,2 @@
 # NameGame
-Game used to match names
+Game used to match names with pictures
